@@ -1,0 +1,61 @@
+db.estudiantes.insertMany([
+    { id: 1, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 2, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 3, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 4, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 5, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 6, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 7, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 8, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 9, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 10, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 11, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 12, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 13, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 14, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 15, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 16, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 17, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 18, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 19, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 20, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 21, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 22, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 23, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 24, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 25, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 26, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 27, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 28, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 29, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 30, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 31, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 32, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 33, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 34, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 35, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 36, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 37, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 38, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 39, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 40, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 41, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 42, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 43, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 44, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 45, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 46, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 47, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 48, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 49, nombre: 'Joanna', precio: 'F', cantidad:105 },
+    { id: 59, nombre: 'Joanna', precio: 'F', cantidad:105 }
+
+    
+]);
+
+//db.estudiantes.find({edad:{$eq:50}})
+//db.estudiantes.find({name:{$eq:"Alexander"}})
+//db.estudiantes.find({edad:{$gte:80}})
+//db.estudiantes.find({edad:{$lte:20}})
+//db.estudiantes.find({gender:{$ne:"M"}})
+//db.estudiantes.find({edad:{$nin:[80,10]}}) //omite valores
